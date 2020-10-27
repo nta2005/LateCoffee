@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Late Coffee</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clear_cart">Clear all</string>
+    <string name="toast_clear_cart">Delete item from Cart successful!</string>
+    <string name="toast_clearAll_cart">Clear Cart Success</string>
+
+    <string name="drawer_header">Hey, </string>
+    <string name="menu_home">Home</string>
+    <string name="menu_menu">Categories</string>
+    <string name="menu_food_list">Food List</string>
+    <string name="menu_food_detail">Food Detail</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_view_order">Order Views</string>
+    <string name="menu_sign_out">Sign Out</string>
+
+    <string name="popular_categories">Popular Categories</string>
+    <string name="best_deals">Best Deals</string>
+    <string name="size">Size</string>
+    <string name="add_on">Addon</string>
+    <string name="register_success">Congratulation! Register success</string>
+    <string name="signin_error">Failed to sign in</string>
+    <string name="msg_permission">You must enable this permission to use app</string>
+    <string name="swipe_delete">Delete</string>
+    <string name="order_placed_success">Order placed Successfully!</string>
+    //Hint
+    <string name="please_name">Please enter your name</string>
+    <string name="please_address">Please enter your address</string>
+    <string name="enter_address">Enter your address</string>
+    <string name="enter_cmt">Enter your comment</string>
+
+    //TextView
+    <string name="txt_address_detail">Your Address</string>
+    <string name="delivery_method">Delivery Method</string>
+    <string name="payment_method">Payment Method</string>
+
+    //RadioButton
+    <string name="rdi_home">Home Address</string>
+    <string name="rdi_ship_to_this">Ship this address</string>
+    <string name="rdi_other">Other Address</string>
+    <string name="rdi_cod">Cash On Delivery</string>
+    <string name="rdi_braintree">Braintree</string>
+
+    //Register
+    <string name="title_register">Register</string>
+    <string name="msg_fill_info">Please fill infomation</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="edt_name">Your Name</string>
+    <string name="edt_address">Your Address</string>
+
+    //SignOut
+    <string name="title_signout">Signout</string>
+    <string name="msg_signout">Do you really want to sign out?</string>
+    <string name="signout_ok">OK</string>
+    <string name="signout_cancel">CANCEL</string>
+
+    //Cart
+    <string name="cart_empty">EMPTY CART</string>
+    <string name="place_order">Place Order</string>
+    <string name="cart_total">Total: 0.0</string>
+
+    //Rating
+    <string name="edt_rating">Please write something</string>
+
+    //Place Order
+    <string name="one_more_step">One more step!</string>
+    <string name="place_order_ok">OK</string>
+    <string name="place_order_cancel">CANCEL</string>
+
+    //Message
+    <string name="braintree_not_available">Sorry, BrainTree Payment is not available!</string>
+
+</resources>

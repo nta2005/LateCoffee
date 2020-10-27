@@ -1,0 +1,105 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.2"
+
+    defaultConfig {
+        applicationId "com.nta.latecoffee"
+        minSdkVersion 21
+        targetSdkVersion 30
+        versionCode 5
+        versionName "1.5"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.2'
+    implementation 'com.google.android.material:material:1.2.1'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.navigation:navigation-fragment:2.3.1'
+    implementation 'androidx.navigation:navigation-ui:2.3.1'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+
+
+    testImplementation 'junit:junit:4.13.1'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+//Libraries
+    //Firebase-
+    implementation platform('com.google.firebase:firebase-bom:25.12.0')
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-auth:19.4.0'
+    implementation 'com.google.firebase:firebase-database:19.5.0'
+    implementation 'com.firebaseui:firebase-ui-auth:6.2.1'
+    implementation 'com.google.firebase:firebase-messaging:20.3.0'
+
+    //Retrofit
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+
+    //RxJava
+    implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.9'
+
+    //Spots Dialog
+    implementation 'com.github.d-max:spots-dialog:1.1@aar'
+
+    //Facebook
+//    implementation 'com.facebook.android:facebook-android-sdk:4.42.0'
+//    implementation 'com.facebook.android:account-kit-sdk:5.4.0'
+
+    //Butter Knife
+    implementation 'com.jakewharton:butterknife:10.2.3'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.3'
+
+    //Looping view pager
+    implementation 'com.asksira.android:loopingviewpager:1.1.4'
+
+    //Glide
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+
+    //Circle Image View
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+    //EventBus
+    implementation 'org.greenrobot:eventbus:3.1.1'
+
+    //CounterFab
+    implementation 'com.github.andremion:counterfab:1.2.2-alpha1'
+
+    //Elegant Number Button
+    implementation 'com.cepheuen.elegant-number-button:lib:1.0.2'
+
+    //Room Persistence
+    implementation 'androidx.room:room-rxjava2:2.3.0-alpha03'
+    annotationProcessor 'androidx.room:room-compiler:2.3.0-alpha03'
+
+    //Dexter (for request runtime permission)
+    implementation 'com.karumi:dexter:6.0.1'
+
+    //Google Locations Service (for get current location)
+    implementation 'com.google.android.gms:play-services-location:17.1.0'
+
+    //BrainTree
+    implementation 'com.braintreepayments.api:drop-in:4.1.1'
+}
+
+apply plugin: 'com.google.gms.google-services'

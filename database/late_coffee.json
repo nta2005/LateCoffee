@@ -1,0 +1,1961 @@
+{
+  "Category": {
+
+    "menu_01": {
+      "foods": [
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Black Coffee",
+          "id": "coffee_01",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fcoffee_01.jpg?alt=media&token=42bdf329-9230-496b-8f52-0490133283bb",
+          "name": "CÀ PHÊ ĐEN",
+          "price": 25000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Milk Coffee",
+          "id": "coffee_02",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fcoffee_02.jpg?alt=media&token=8c6a5be9-26ca-4e06-a930-93d191b9a683",
+          "name": "CÀ PHÊ SỮA",
+          "price": 28000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "White Coffee",
+          "id": "coffee_03",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fcoffee_03.jpg?alt=media&token=a05b4057-280d-49a5-985e-9f7f60123c79",
+          "name": "BẠC XỈU",
+          "price": 29000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Moda Coffee",
+          "id": "coffee_04",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fcoffee_04.jpg?alt=media&token=e0c43b06-c922-4051-965a-47de87fdf720",
+          "name": "CÀ PHÊ MODA",
+          "price": 38000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Milk Cocoa",
+          "id": "coffee_05",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fcoffee_05.jpg?alt=media&token=b7213eb8-331d-41cc-8853-9276496018e7",
+          "name": "CACAO SỮA",
+          "price": 30000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 8000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Fresh Milk",
+          "id": "coffee_06",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fcoffee_06.jpg?alt=media&token=bf688415-b446-412c-8b18-08943fe968ad",
+          "name": "SỮA TƯƠI",
+          "price": 35000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        }
+      ],
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmenu_01.jpg?alt=media&token=e089d0da-caea-408c-91fc-2ced8398b82c",
+      "name": "CÀ PHÊ TRUYỀN THỐNG"
+    },
+
+    "menu_02": {
+      "foods": [
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Americano",
+          "id": "italian_coffee_01",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fitalian_coffee_01.jpg?alt=media&token=23852273-95dd-4791-b51e-95a2c52b8015",
+          "name": "AMERICANO",
+          "price": 35000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Espresso",
+          "id": "italian_coffee_02",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fitalian_coffee_02.jpg?alt=media&token=ed93f3c3-fb27-4c66-b432-918bb51c8aef",
+          "name": "ESPRESSO",
+          "price": 35000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Cappuccino là cà phê và sữa được đánh bông thành kem.",
+          "id": "italian_coffee_03",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fitalian_coffee_03.jpg?alt=media&token=bb48f344-7abb-42aa-9f67-f85fc33fddf3",
+          "name": "CAPPUCCINO",
+          "price": 45000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Mocha bao gồm sô cô la, espresso và sữa nóng",
+          "id": "italian_coffee_04",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fitalian_coffee_04.jpg?alt=media&token=aa73984e-90b6-407e-b187-f63ba595cd8e",
+          "name": "MOCHA",
+          "price": 45000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Latte",
+          "id": "italian_coffee_05",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fitalian_coffee_05.jpg?alt=media&token=c3d11039-5c65-493e-a5d7-521dee8da04c",
+          "name": "LATTE",
+          "price": 45000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        }
+      ],
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmenu_02.jpg?alt=media&token=10cb98d5-afdd-4d34-8e68-8d0b097acb4a",
+      "name": "CÀ PHÊ Ý"
+    },
+
+    "menu_03": {
+      "foods": [
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Egg Coffee",
+          "id": "special_coffee_01",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fspecial_coffee_01.jpg?alt=media&token=964c801c-20f3-4ef4-8b19-9afb2cbe084a",
+          "name": "CÀ PHÊ TRỨNG",
+          "price": 48000,
+          "size": [
+            {
+              "name": "Một size duy nhất",
+              "price": 0
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Coconut Milk Coffee",
+          "id": "special_coffee_02",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fspecial_coffee_02.jpg?alt=media&token=653b9f01-28f4-45f6-a72f-c943844ea5cd",
+          "name": "CÀ PHÊ SỮA DỪA",
+          "price": 48000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        }
+      ],
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmenu_03.jpg?alt=media&token=4ca4dc33-c9ea-4931-9a6e-67c9926a4c37",
+      "name": "CÀ PHÊ ĐẶC BIỆT"
+    },
+
+    "menu_04": {
+      "foods": [
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Melon Tea",
+          "id": "tea_01",
+          "image": "https://live.staticflickr.com/65535/48581054857_81760286f8_o.jpg",
+          "name": "TRÀ DƯA LƯỚI",
+          "price": 45000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 13000
+            }
+          ]
+        },
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Peach Tea",
+          "id": "tea_02",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftea_02.jpg?alt=media&token=d939b61f-5627-4510-a184-160e29469a64",
+          "name": "TRÀ ĐÀO",
+          "price": 38000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 14000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Lotus Tea",
+          "id": "tea_03",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftea_03.jpg?alt=media&token=cab2b89f-2283-47e6-acde-02f6ddea1b0c",
+          "name": "TRÀ HẠT SEN",
+          "price": 45000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Olong Tea, Lotus, Longan",
+          "id": "tea_04",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftea_04.jpg?alt=media&token=911d1239-f3a6-4c74-89d0-82977694df3b",
+          "name": "TRÀ Ô-LONG SEN NHÃN",
+          "price": 45000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Lotus Longan Tea",
+          "id": "tea_05",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftea_05.jpg?alt=media&token=25c8498b-ffc3-414d-bebc-826941d57bb7",
+          "name": "TRÀ SEN NHÃN",
+          "price": 45000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Hibicus Tea",
+          "id": "tea_06",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftea_06.jpg?alt=media&token=ec359184-f683-41df-a9a8-2325a2c1d79b",
+          "name": "TRÀ BỤT GIẤM",
+          "price": 38000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Lychee Tea",
+          "id": "tea_07",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftea_07.jpg?alt=media&token=916d836d-48c4-4bf4-a555-9fa0199edcfc",
+          "name": "TRÀ VẢI",
+          "price": 45000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Ginger Lemon Tea",
+          "id": "tea_08",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftea_08.jpg?alt=media&token=ddc83637-42b8-486c-bcb5-56fa997a6d10",
+          "name": "TRÀ CHANH SẢ GỪNG",
+          "price": 38000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Orange Lemon Grass Peach Tea",
+          "id": "tea_09",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftea_09.jpg?alt=media&token=f99573ff-5a21-41e6-8506-035addaf57bf",
+          "name": "TRÀ ĐÀO CAM SẢ",
+          "price": 45000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Honey Ginger Lemonade",
+          "id": "tea_10",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftea_10.jpg?alt=media&token=6f90e094-7924-40a4-96eb-61dd14d8c725",
+          "name": "CHANH MẬT ONG GỪNG",
+          "price": 38000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        }
+      ],
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmenu_04.jpg?alt=media&token=43dee6c9-f8f9-4a7d-ac70-5e0226de2bee",
+      "name": "TRÀ"
+    },
+
+    "menu_05": {
+      "foods": [
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Vỏ cam",
+          "id": "italian_soda_01",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fitalian_soda_01.jpg?alt=media&token=d064039d-8cb0-41a5-86a2-a6004e88ae6e",
+          "name": "BLUE OCEAN",
+          "price": 36000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Strawberry",
+          "id": "italian_soda_02",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fitalian_soda_02.jpg?alt=media&token=108604eb-bf5f-48dd-9e3c-305e7363061f",
+          "name": "DÂU",
+          "price": 36000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Nam việt quất",
+          "id": "italian_soda_03",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fitalian_soda_03.jpg?alt=media&token=690bc695-4e9c-440a-8f42-95b96d22f715",
+          "name": "DREAM UP",
+          "price": 36000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "Chanh dây",
+          "id": "italian_soda_04",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fitalian_soda_04.jpg?alt=media&token=217d26fa-6c9f-4dd2-b6d0-e08a719bcb48",
+          "name": "PASSION",
+          "price": 36000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đường",
+              "price": 0
+            },
+            {
+              "name": "Đá",
+              "price": 0
+            }
+          ],
+          "description": "",
+          "id": "italian_soda_05",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fitalian_soda_05.jpg?alt=media&token=a211b6b4-5e80-4cf8-8d3f-91a42b507d19",
+          "name": "VIRGIN MOJITO",
+          "price": 39000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        }
+      ],
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmenu_05.jpg?alt=media&token=69d0c172-8692-4db4-bc99-7304c4520930",
+      "name": "SODA Ý"
+    },
+
+    "menu_06": {
+      "foods": [
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Sữa tươi, Đường nâu, ngọc trai.\nFresh milk, Brown Sugar, White pearl.",
+          "id": "milk_tea_01",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmilk_tea_01.jpg?alt=media&token=e225eb1b-073d-4078-8a45-42662e9cf39c",
+          "name": "SỮA 'D'",
+          "price": 42000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 13000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Olong Milk Tea",
+          "id": "milk_tea_02",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmilk_tea_02.jpg?alt=media&token=54a85445-509b-45a2-9a40-6e98633f0e0b",
+          "name": "TRÀ SỮA Ô-LONG",
+          "price": 42000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Trà đen, bọt sữa.\nBlack Tea, Milk Foam.",
+          "id": "milk_tea_03",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmilk_tea_03.jpg?alt=media&token=54c9010a-d237-4e1f-8f78-56feee3a9efe",
+          "name": "TRÀ SỮA 'M'",
+          "price": 42000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 13000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Thailand Milk Tea",
+          "id": "milk_tea_04",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmilk_tea_04.jpg?alt=media&token=d091a4de-da6e-4b8e-b3fe-b28950aea067",
+          "name": "TRÀ SỮA THÁI",
+          "price": 29000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        }
+      ],
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmenu_06.jpg?alt=media&token=4925e089-c4b5-4f48-82e6-00a067605d18",
+      "name": "TRÀ SỮA"
+    },
+
+    "menu_07": {
+      "foods": [
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Matcha Green Tea",
+          "id": "ice_01",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fice_01.jpg?alt=media&token=49d5e2e1-53dd-4527-a685-b5288ce5d314",
+          "name": "TRÀ XANH ĐÁ XAY",
+          "price": 48000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Blueberry Ice Blended",
+          "id": "ice_02",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fice_02.jpg?alt=media&token=86a71a5e-6a3c-4523-9d64-7449fe1097ba",
+          "name": "NAM VIỆT QUẤT ĐÁ XAY",
+          "price": 48000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Cocoa Ice Blended",
+          "id": "ice_03",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fice_03.jpg?alt=media&token=854ba4be-f0c1-41b3-8d92-906cad579c4b",
+          "name": "CACAO ĐÁ XAY",
+          "price": 48000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Mocha Ice Blended",
+          "id": "ice_04",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fice_04.jpg?alt=media&token=05619d46-6643-45ed-a6ad-01b02687392a",
+          "name": "CÀ PHÊ ĐÁ XAY",
+          "price": 48000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Cookies Chocolate",
+          "id": "ice_05",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fice_05.jpg?alt=media&token=91d27efb-a54d-4855-915e-a1b41a5359f4",
+          "name": "COOKIES",
+          "price": 48000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Sữa",
+              "price": 2000
+            }
+          ],
+          "description": "Lemonade Ice Blended",
+          "id": "ice_06",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fice_06.jpg?alt=media&token=8b68e31d-e509-414b-89e2-9a20eb471d74",
+          "name": "ĐÁ CHANH XAY",
+          "price": 42000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        }
+      ],
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmenu_07.jpg?alt=media&token=f7ea129c-8b01-4b73-8f5f-1620ca035b11",
+      "name": "ĐÁ XAY"
+    },
+
+    "menu_08": {
+      "foods": [
+        {
+          "addon": [
+          
+          ],
+          "description": "Crunchy Rice",
+          "id": "fast_food_01",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ffast_food_01.jpg?alt=media&token=516c35f7-84ea-4a76-8d75-692a792d3568",
+          "name": "CƠM CHÁY",
+          "price": 35000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 5000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Nước",
+              "price": 0
+            },
+            {
+              "name": "Mì",
+              "price": 2000
+            }
+          ],
+          "description": "Noodle",
+          "id": "fast_food_02",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ffast_food_02.jpg?alt=media&token=cce44e5a-de32-428a-9c10-e13c60e431f0",
+          "name": "MÌ LY",
+          "price": 19000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 3000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            
+          ],
+          "description": "Pineapple, beancurd sheet and onion",
+          "id": "fast_food_03",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ffast_food_03.jpg?alt=media&token=bde5e34f-651a-4534-ad4a-fddb733bad2f",
+          "name": "HẠT HƯỚNG DƯƠNG",
+          "price": 18000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 7000
+            }
+          ]
+        }
+      ],
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmenu_08.jpg?alt=media&token=ae7db012-d1e8-43d9-b657-a513b581b84b",
+      "name": "THỨC ĂN NHẸ"
+    },
+
+    "menu_09": {
+      "foods": [
+        {
+          "addon": [
+            {
+              "name": "Dâu",
+              "price": 5000
+            },
+            {
+              "name": "Yogurt",
+              "price": 5000
+            }
+          ],
+          "description": "Dâu, Yogurt",
+          "id": "yogurt_shake_01",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fyogurt_shake_01.jpg?alt=media&token=806835ae-ec83-442e-aae0-73d139534e6f",
+          "name": "SWEET LADY",
+          "price": 36000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+        {
+          "addon": [
+            {
+              "name": "Nam Việt Quất",
+              "price": 5000
+            },
+            {
+              "name": "Yagurt",
+              "price": 5000
+            }
+          ],
+          "description": "Nam Việt Quất, Yogurt",
+          "id": "yogurt_shake_02",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fyogurt_shake_02.jpg?alt=media&token=96d5fe02-14de-40d9-9696-088b6d5da607",
+          "name": "BLUEBERRY",
+          "price": 36000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đào",
+              "price": 5000
+            },
+            {
+              "name": "Yogurt",
+              "price": 5000
+            }
+          ],
+          "description": "Đào, Yogurt",
+          "id": "yogurt_shake_03",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fyogurt_shake_03.jpg?alt=media&token=2c90c068-9691-45d9-9513-32ee830e229b",
+          "name": "PEACH",
+          "price": 36000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Chanh dây",
+              "price": 5000
+            },
+            {
+              "name": "Yogurt",
+              "price": 5000
+            }
+          ],
+          "description": "Chanh dây, Yogurt",
+          "id": "yogurt_shake_04",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fyogurt_shake_04.jpg?alt=media&token=d450dade-8382-4485-bb10-be954c0613ee",
+          "name": "PASSION",
+          "price": 36000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        }
+      ],
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmenu_09.jpg?alt=media&token=5494c17f-5269-42bf-a26f-5eeb1e99f292",
+      "name": "SỮA CHUA LẮC"
+    },
+
+    "menu_10": {
+      "foods": [
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Đường",
+              "price": 0
+            }
+          ],
+          "description": "Lemonade Juice",
+          "id": "fruit_juice_01",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ffruit_juice_01.jpg?alt=media&token=c222272e-68b8-4802-b028-e1d5fd1df54d",
+          "name": "CHANH ĐÁ",
+          "price": 28000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 10000
+            }
+          ]
+        },
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Đường",
+              "price": 0
+            }
+          ],
+          "description": "Orange Juice",
+          "id": "fruit_juice_02",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ffruit_juice_02.jpg?alt=media&token=238482d6-c9e5-4748-8070-3bdf32b052cd",
+          "name": "CAM VẮT",
+          "price": 42000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 13000
+            }
+          ]
+        },
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Đường",
+              "price": 0
+            }
+          ],
+          "description": "",
+          "id": "fruit_juice_03",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ffruit_juice_03.jpg?alt=media&token=d0296515-2b2e-4ee1-9ede-ecc9de58596c",
+          "name": "MR. ỔI",
+          "price": 42000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 13000
+            }
+          ]
+        },
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Đường",
+              "price": 0
+            }
+          ],
+          "description": "Nước ép Thơm/Dứa/Khóm",
+          "id": "fruit_juice_04",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ffruit_juice_04.jpg?alt=media&token=6ec5ef37-acd4-4229-9486-ef16da51856b",
+          "name": "MS. PINEAPPLE",
+          "price": 42000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 13000
+            }
+          ]
+        },
+
+        {
+          "addon": [
+            {
+              "name": "Đá",
+              "price": 0
+            },
+            {
+              "name": "Đường",
+              "price": 0
+            }
+          ],
+          "description": "",
+          "id": "fruit_juice_05",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ffruit_juice_05.jpg?alt=media&token=b1fd5000-c001-494c-95ce-809daa0b9110",
+          "name": "MRS. CARROT",
+          "price": 42000,
+          "size": [
+            {
+              "name": "Vừa",
+              "price": 0
+            },
+            {
+              "name": "Lớn",
+              "price": 13000
+            }
+          ]
+        }
+
+      ],
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmenu_10.jpg?alt=media&token=c8317778-595b-4d95-9868-3bb3d0e776b7",
+      "name": "NƯỚC ÉP TRÁI CÂY"
+    },
+
+    "menu_11": {
+      "foods": [
+        {
+          "addon": [
+           
+          ],
+          "description": "",
+          "id": "topping_01",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftopping_01.jpg?alt=media&token=0d302aea-ffb9-4f7f-ab2c-fc78b0df8535",
+          "name": "TRÂN CHÂU TRẮNG",
+          "price": 10000,
+          "size": [
+            
+          ]
+        },
+        {
+          "addon": [
+            
+          ],
+          "description": "",
+          "id": "topping_02",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftopping_02.jpg?alt=media&token=36db0f55-c1fd-49a0-9e86-0c3fc84e1e72",
+          "name": "THẠCH JELLY",
+          "price": 10000,
+          "size": [
+            
+          ]
+        },
+        {
+          "addon": [
+            
+          ],
+          "description": "Bọt sữa",
+          "id": "topping_03",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftopping_03.jpg?alt=media&token=e749d3cf-56b2-4476-916f-3985ff3118bf",
+          "name": "MILK FOAM",
+          "price": 15000,
+          "size": [
+            
+          ]
+        },
+
+        {
+          "addon": [
+            
+          ],
+          "description": "Kem Tươi",
+          "id": "topping_04",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftopping_04.jpg?alt=media&token=d314c817-4549-4b39-8233-f9696a98d75c",
+          "name": "WHIPPING CREAM",
+          "price": 10000,
+          "size": [
+            
+          ]
+        },
+
+        {
+          "addon": [
+            
+          ],
+          "description": "3 miếng",
+          "id": "topping_05",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftopping_05.jpg?alt=media&token=eb443431-f4c0-48f0-9018-25b82cd2f0c4",
+          "name": "ĐÀO MIẾNG",
+          "price": 15000,
+          "size": [
+            
+          ]
+        },
+
+        {
+          "addon": [
+            
+          ],
+          "description": "3 miếng",
+          "id": "topping_06",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftopping_06.jpg?alt=media&token=c70f28b8-1594-43da-8432-7ba82ae1c4ce",
+          "name": "DƯA LƯỚI",
+          "price": 15000,
+          "size": [
+            
+          ]
+        },
+
+        {
+          "addon": [
+            
+          ],
+          "description": "3 viên",
+          "id": "topping_07",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftopping_07.jpg?alt=media&token=c0ba0563-ab71-4211-bd40-9be93f32fa91",
+          "name": "VẢI THÊM",
+          "price": 12000,
+          "size": [
+            
+          ]
+        },
+
+        {
+          "addon": [
+            
+          ],
+          "description": "Có 3 hoa",
+          "id": "topping_08",
+          "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftopping_08.jpg?alt=media&token=ed7e6c83-0813-4199-84f8-93e79332c335",
+          "name": "MỨT ATISO",
+          "price": 15000,
+          "size": [
+            
+          ]
+        }
+        
+      ],
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fmenu_11.jpg?alt=media&token=ddfea0ff-7656-4305-989d-e00c49b37eb0",
+      "name": "TOPPING"
+    }
+  },
+
+  "Chats" : {
+    "LCBCwDMtf17gUt6lp5i84trZ6QWfK2" : {
+      "ChatDetail" : {
+        "-MOMEpsIK8HR9-b2-ACK" : {
+          "content" : "edf",
+          "name" : "hien",
+          "picture" : false,
+          "timeStamp" : 1607781538861
+        },
+        "-MOMEzjzWuzMcRc430mN" : {
+          "content" : "ádasdadádasdasdasaándanmasnd,mnasdn,amsnda,n,ámnd",
+          "name" : "hien",
+          "picture" : false,
+          "timeStamp" : 1607781579265
+        },
+        "-MOMGlo7_qI9UpTIM72V" : {
+          "content" : "",
+          "name" : "triet",
+          "picture" : false,
+          "timeStamp" : 1607782046494
+        },
+        "-MOMGmJyVyCQRNDE1MCe" : {
+          "content" : "",
+          "name" : "triet",
+          "picture" : false,
+          "timeStamp" : 1607782048596
+        },
+        "-MOMHKvusXdO8rXi913e" : {
+          "content" : "",
+          "name" : "triet",
+          "picture" : true,
+          "pictureLink" : "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/chats%2FIMG_20201212_210936_-505551579.jpg?alt=media&token=c6825f75-3918-4b93-b8f8-e380f0a99f18",
+          "timeStamp" : 1607782190737
+        },
+        "-MO_0g5MwN-muwJzRPMc" : {
+          "content" : "ngu người",
+          "name" : "Admin: Thanh An",
+          "picture" : false,
+          "timeStamp" : 1608012709857
+        },
+        "-MOaJUJnFqJktXSga4tt" : {
+          "content" : "aaaaaa",
+          "name" : "hhu",
+          "picture" : false,
+          "timeStamp" : 1608034415357
+        },
+        "-MOaJUZm8z9NFPOcGETz" : {
+          "content" : "",
+          "name" : "hhu",
+          "picture" : false,
+          "timeStamp" : 1608034416390
+        }
+      },
+      "createDate" : 1607781538861,
+      "createName" : "hien",
+      "lastMessage" : "",
+      "lastUpdate" : 1608034416390
+    },
+    "mOvpiCKfxAX8oFryx675eVzbn1a2LC" : {
+      "ChatDetail" : {
+        "-MOaJZtc19DgPtYblb1A" : {
+          "content" : "ư ư ue",
+          "name" : "Huy",
+          "picture" : false,
+          "timeStamp" : 1608034438148
+        }
+      },
+      "createDate" : 1608034438148,
+      "createName" : "Huy",
+      "lastMessage" : "ư ư ue",
+      "lastUpdate" : 1608034438148
+    }
+  },
+
+  "Comments" : {
+    "coffee_01" : {
+      "-MOb4fDoUVlefB2uVebN" : {
+        "comment" : "",
+        "commentTimeStamp" : {
+          "timeStamp" : 1608047311457
+        },
+        "name" : "Huy",
+        "ratingValue" : 0,
+        "uid" : "mOvpiCKfxAX8oFryx675eVzbn1a2"
+      },
+      "-MOb5J2cDJz-b30ZISA-" : {
+        "comment" : "aaaa",
+        "commentTimeStamp" : {
+          "timeStamp" : 1608047479953
+        },
+        "name" : "Huy",
+        "ratingValue" : 4.5,
+        "uid" : "mOvpiCKfxAX8oFryx675eVzbn1a2"
+      },
+      "-MOb8VbLSXb2ZzQfceQJ" : {
+        "comment" : "aaaa",
+        "commentTimeStamp" : {
+          "timeStamp" : 1608048314571
+        },
+        "name" : "Huy",
+        "ratingValue" : 4.5,
+        "uid" : "mOvpiCKfxAX8oFryx675eVzbn1a2"
+      }
+    },
+    "coffee_05" : {
+      "-MOHPq0yXZRFtiNQ5tSY" : {
+        "comment" : "",
+        "commentTimeStamp" : {
+          "timeStamp" : 1607700537746
+        },
+        "name" : "Huy",
+        "ratingValue" : 5,
+        "uid" : "mOvpiCKfxAX8oFryx675eVzbn1a2"
+      }
+    }
+  },
+
+  "Discount" : {
+    "F12" : {
+      "key" : "F12",
+      "percent" : 20,
+      "untilDate" : 1609382858596
+    }
+  },
+
+  "BestDeals": {
+    "best_deal_01": {
+      "menu_id": "menu_01",
+      "food_id": "coffee_02",
+      "name": "CÀ PHÊ SỮA",
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fcoffee_02.jpg?alt=media&token=8c6a5be9-26ca-4e06-a930-93d191b9a683"
+    },
+    "best_deal_02": {
+      "menu_id": "menu_02",
+      "food_id": "italian_coffee_05",
+      "name": "LATTE",
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fitalian_coffee_05.jpg?alt=media&token=c3d11039-5c65-493e-a5d7-521dee8da04c"
+    },
+    "best_deal_03": {
+      "menu_id": "menu_04",
+      "food_id": "tea_02",
+      "name": "TRÀ ĐÀO",
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Ftea_02.jpg?alt=media&token=d939b61f-5627-4510-a184-160e29469a64"
+    },
+    "best_deal_04": {
+      "menu_id": "menu_05",
+      "food_id": "italian_soda_05",
+      "name": "VIRGIN MOJITO",
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fitalian_soda_05.jpg?alt=media&token=a211b6b4-5e80-4cf8-8d3f-91a42b507d19"
+    }
+  },
+
+  "MostPopular": {
+    "popular_01": {
+      "menu_id": "menu_01",
+      "food_id": "coffee_01",
+      "name": "CÀ PHÊ ĐEN",
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fcoffee_01.jpg?alt=media&token=42bdf329-9230-496b-8f52-0490133283bb"
+    },
+    "popular_02": {
+      "menu_id": "menu_01",
+      "food_id": "coffee_02",
+      "name": "CÀ PHÊ SỮA",
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fcoffee_02.jpg?alt=media&token=8c6a5be9-26ca-4e06-a930-93d191b9a683"
+    },
+    "popular_03": {
+      "menu_id": "menu_01",
+      "food_id": "coffee_03",
+      "name": "BẠC XỈU",
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fcoffee_03.jpg?alt=media&token=a05b4057-280d-49a5-985e-9f7f60123c79"
+    },
+    "popular_04": {
+      "menu_id": "menu_01",
+      "food_id": "coffee_05",
+      "name": "CACAO SỮA",
+      "image": "https://firebasestorage.googleapis.com/v0/b/late-coffee-d11bc.appspot.com/o/data%2Fcoffee_05.jpg?alt=media&token=b7213eb8-331d-41cc-8853-9276496018e7"
+    }
+  },
+
+  "Server" : {
+    "4TT1Jq07N6QgHGyvM4NxF8idDbp2" : {
+      "active" : true,
+      "name" : "Mèoo Ú",
+      "phone" : "caoxanh9@gmail.com",
+      "uid" : "4TT1Jq07N6QgHGyvM4NxF8idDbp2"
+    },
+    "BCwDMtf17gUt6lp5i84trZ6QWfK2" : {
+      "active" : true,
+      "name" : "triet",
+      "phone" : "+84365035841",
+      "uid" : "BCwDMtf17gUt6lp5i84trZ6QWfK2"
+    },
+    "Kn2RNi6EnIQ02mvvP67Yfu1K7NF2" : {
+      "active" : true,
+      "name" : "Nguyễn Thanh An",
+      "phone" : "ntapro1412@gmail.com",
+      "uid" : "Kn2RNi6EnIQ02mvvP67Yfu1K7NF2"
+    },
+    "mOvpiCKfxAX8oFryx675eVzbn1a2" : {
+      "active" : true,
+      "name" : "hhu",
+      "phone" : "+84394843360",
+      "uid" : "mOvpiCKfxAX8oFryx675eVzbn1a2"
+    },
+    "u7HmPHgFnqfy0MHp2iCsrEsi1zk1" : {
+      "active" : true,
+      "name" : "Admin: Thanh An",
+      "phone" : "+84979606120",
+      "uid" : "u7HmPHgFnqfy0MHp2iCsrEsi1zk1"
+    }
+  },
+
+  "Shippers" : {
+    "FkqNW95EdNVeq2tLPCxKMIQaZNz1" : {
+      "active" : true,
+      "name" : "con cac",
+      "phone" : "+18888888888",
+      "uid" : "FkqNW95EdNVeq2tLPCxKMIQaZNz1"
+    },
+    "GKV3TTCsYSYEXBZ0bmwN5pYiMuC2" : {
+      "active" : true,
+      "name" : "ShipperVIP",
+      "phone" : "+84123456789",
+      "uid" : "GKV3TTCsYSYEXBZ0bmwN5pYiMuC2"
+    },
+    "Kn2RNi6EnIQ02mvvP67Yfu1K7NF2" : {
+      "active" : true,
+      "name" : "Nguyễn Thanh An",
+      "phone" : "ntapro1412@gmail.com",
+      "uid" : "Kn2RNi6EnIQ02mvvP67Yfu1K7NF2"
+    },
+    "aocv6bvEiNQiUfgOIv2EBWq2ipf2" : {
+      "active" : true,
+      "name" : "Shipper2",
+      "phone" : "+84921286008",
+      "uid" : "aocv6bvEiNQiUfgOIv2EBWq2ipf2"
+    },
+    "mOvpiCKfxAX8oFryx675eVzbn1a2" : {
+      "active" : true,
+      "name" : "Anh Shipper May Mắn",
+      "phone" : "+84394843360",
+      "uid" : "mOvpiCKfxAX8oFryx675eVzbn1a2"
+    }
+  },
+
+  "Tokens" : {
+    "5v5OyD2Nr5TMGw41qlMeqlaQAD23" : {
+      "phone" : "+84921286008",
+      "token" : "cMF_mWFeTIWH7wJRH9gYEA:APA91bE8LZx1Pxgkw4bCg0cP-0pI9tYq9IuankZpVnEQfC-e-RbsQJYyIgInuTH9HJNLK1x7fws5fZg-jU920mWCdfzaT-Rx6q-DD55opLVGYu_uYTxHxJ6_aIOxhLB3Ig0osS9YtWd8"
+    },
+    "BCwDMtf17gUt6lp5i84trZ6QWfK2" : {
+      "phone" : "+84365035841",
+      "token" : "ftJvbukaRpW6jJsqw66J6Z:APA91bGwwpmyNia9njAlmwe3UmGLp7Z5xfLdsqTNYKRRv4Q2jhG1On6ouf0_AZh_9-jFxKW0DxMHiXbKoyrLjKA4S-SA2zr0huYo0mFnvZwrfjgS-fcY4yr7rAMz_r3Z14wsjmLO_Vx1"
+    },
+    "Kn2RNi6EnIQ02mvvP67Yfu1K7NF2" : {
+      "phone" : "ntapro1412@gmail.com",
+      "token" : "fCLaS0DHQ02JwhgAcnIog6:APA91bG_-2MBXXdg40eetCas7PjLtUxN2CbOiVuLmOMj2KoG9DG-2YMPonL0rxECYfLLNJrExs6teCFTS2eIgfII5wELVX1yx5lOUvIegGeDRqroFS0LO16mXJMOcWuM--yq9tVoSLnk"
+    },
+    "aocv6bvEiNQiUfgOIv2EBWq2ipf2" : {
+      "phone" : "+84921286008",
+      "token" : "ewkOPZtVQQ6VnOAE9qgEho:APA91bHxGH68czt30aI1TI8wxdRTkFIEAqIWxOfWzylkeO2AmxNqgs2YmH3LmjL2JwFp5qt1TRagHn7fHZhhKP5d7-e0Vs05XBY7WpJ01_xyMpCeBpT6CvajkfT77cQzS6eUQQc8kbm9"
+    },
+    "mOvpiCKfxAX8oFryx675eVzbn1a2" : {
+      "phone" : "+84394843360",
+      "serverToken" : true,
+      "shipperToken" : false,
+      "token" : "fOscp8Z_SfizMb1qP3R43l:APA91bGsT4NvscAhb5zzBb5BdNQc0RwCYBMT8Zp7ozmQ8m9-6dYXSWiI2iP1e7YfwLTH2iWAOXsQZ4fuoinL-wfsGJ1XvD-rLojgz1BvXL0LakcLiNsO1NiwHgDmDW6Y-BJTQzmo4lHr"
+    },
+    "oeefnpzdbiOiVfBGI3y2E1SCdcq1" : {
+      "phone" : "anplay@gmail.com",
+      "token" : "d9U8t6HFQ0SBsTbmSjzgjS:APA91bGSpfp8fiNYynWR2i63902V0oEnIYBe5OS-1vXVogSsRe-G0zf4CTDf28POrU6vTuFoQiPu4E4Un00MWjOcuUXF4_qSZ2jyg4fwJUXcV7HagMMqPcLGvbF4KCz0tmpDrARXj94-"
+    },
+    "u7HmPHgFnqfy0MHp2iCsrEsi1zk1" : {
+      "phone" : "+84979606120",
+      "token" : "fCLaS0DHQ02JwhgAcnIog6:APA91bG_-2MBXXdg40eetCas7PjLtUxN2CbOiVuLmOMj2KoG9DG-2YMPonL0rxECYfLLNJrExs6teCFTS2eIgfII5wELVX1yx5lOUvIegGeDRqroFS0LO16mXJMOcWuM--yq9tVoSLnk"
+    }
+  },
+
+  "Users" : {
+    "4TT1Jq07N6QgHGyvM4NxF8idDbp2" : {
+      "address" : "Hyderabad, Telangana, Ấn Độ",
+      "lat" : 17.385044,
+      "lng" : 78.486671,
+      "name" : "Mèoo Ú",
+      "phone" : "caoxanh9@gmail.com",
+      "uid" : "4TT1Jq07N6QgHGyvM4NxF8idDbp2"
+    },
+    "5v5OyD2Nr5TMGw41qlMeqlaQAD23" : {
+      "address" : "Tây Sơn, Bình Định, Việt Nam",
+      "lat" : 13.9479428,
+      "lng" : 108.8551484,
+      "name" : "Thanh An",
+      "phone" : "+84921286008",
+      "uid" : "5v5OyD2Nr5TMGw41qlMeqlaQAD23"
+    },
+    "9RF44BblYAfXD2WqAWIvBsoSwzW2" : {
+      "address" : "Vietnam",
+      "lat" : 14.058324,
+      "lng" : 108.277199,
+      "name" : "HUy Hentai",
+      "phone" : "huyhentai@hotmail.com",
+      "uid" : "9RF44BblYAfXD2WqAWIvBsoSwzW2"
+    },
+    "9uU5BhBuo8Z5t14dW6PBDtJnL2o1" : {
+      "address" : "Ho Chi Minh City, Vietnam",
+      "lat" : 10.8230989,
+      "lng" : 106.6296638,
+      "name" : "Thanh Thu",
+      "phone" : "thanhan2005@gmail.com",
+      "uid" : "9uU5BhBuo8Z5t14dW6PBDtJnL2o1"
+    },
+    "BCwDMtf17gUt6lp5i84trZ6QWfK2" : {
+      "address" : "Xuân Hồng, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
+      "lat" : 10.7956131,
+      "lng" : 106.6536599,
+      "name" : "triet",
+      "phone" : "+84365035841",
+      "uid" : "BCwDMtf17gUt6lp5i84trZ6QWfK2"
+    },
+    "Kn2RNi6EnIQ02mvvP67Yfu1K7NF2" : {
+      "address" : "Binh Dinh",
+      "lat" : 0,
+      "lng" : 0,
+      "name" : "Nguyễn Thanh An",
+      "phone" : "ntapro1412@gmail.com",
+      "uid" : "Kn2RNi6EnIQ02mvvP67Yfu1K7NF2"
+    },
+    "gFzQN7gpXGgk4yyKfnVy8VtwIEI2" : {
+      "address" : "abc",
+      "lat" : 0,
+      "lng" : 0,
+      "name" : "Huy Quốc",
+      "phone" : "caoxanh@gmail.com",
+      "uid" : "gFzQN7gpXGgk4yyKfnVy8VtwIEI2"
+    },
+    "mOvpiCKfxAX8oFryx675eVzbn1a2" : {
+      "address" : "qud",
+      "name" : "Huy",
+      "phone" : "+84394843360",
+      "uid" : "mOvpiCKfxAX8oFryx675eVzbn1a2"
+    },
+    "oeefnpzdbiOiVfBGI3y2E1SCdcq1" : {
+      "address" : "Tây Sơn, Bình Định, Việt Nam",
+      "lat" : 13.9479428,
+      "lng" : 108.8551484,
+      "name" : "Nguyễn Thanh An",
+      "phone" : "anplay@gmail.com",
+      "uid" : "oeefnpzdbiOiVfBGI3y2E1SCdcq1"
+    },
+    "sT2ywpMrw2Y4aSmT3mRsowYeU9q2" : {
+      "address" : "San Francisco, California, Hoa Kỳ",
+      "lat" : 37.7749295,
+      "lng" : -122.4194155,
+      "name" : "Huy Quốc",
+      "phone" : "quochuynhqb@gmail.com",
+      "uid" : "sT2ywpMrw2Y4aSmT3mRsowYeU9q2"
+    }
+  },
+
+  "Version":"16/12/2020"
+  
+}
+

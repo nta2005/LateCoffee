@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "981996473960",
+    "firebase_url": "https://late-coffee-d11bc.firebaseio.com",
+    "project_id": "late-coffee-d11bc",
+    "storage_bucket": "late-coffee-d11bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981996473960:android:be8838e863b633cbc9b5dd",
+        "android_client_info": {
+          "package_name": "com.hien.latecoffeeshipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981996473960-g7242tce8pu960lr71nkogrjh2dlnq4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGd6KSWJ2kDpa64dtOXd_Mza5d_5Ljf_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981996473960-g7242tce8pu960lr71nkogrjh2dlnq4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981996473960:android:9e22615c3c867793c9b5dd",
+        "android_client_info": {
+          "package_name": "com.nta.latecoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981996473960-g7242tce8pu960lr71nkogrjh2dlnq4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGd6KSWJ2kDpa64dtOXd_Mza5d_5Ljf_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981996473960-g7242tce8pu960lr71nkogrjh2dlnq4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981996473960:android:6ea5e5cac5abd672c9b5dd",
+        "android_client_info": {
+          "package_name": "com.nta.lc_server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981996473960-g7242tce8pu960lr71nkogrjh2dlnq4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGd6KSWJ2kDpa64dtOXd_Mza5d_5Ljf_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981996473960-g7242tce8pu960lr71nkogrjh2dlnq4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981996473960:android:ca79b382251e1bfec9b5dd",
+        "android_client_info": {
+          "package_name": "com.nta.lc_shipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981996473960-g7242tce8pu960lr71nkogrjh2dlnq4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGd6KSWJ2kDpa64dtOXd_Mza5d_5Ljf_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981996473960-g7242tce8pu960lr71nkogrjh2dlnq4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

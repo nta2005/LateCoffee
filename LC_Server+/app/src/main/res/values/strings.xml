@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LC Server</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_search">Tìm kiếm</string>
+    <string name="action_filter">Lọc</string>
+    <string name="action_create">Thêm</string>
+
+    <string name="menu_category">Menu</string>
+    <string name="menu_discount">Mã giảm giá</string>
+    <string name="menu_send_news">Thông báo mới</string>
+    <string name="menu_food_list">Food List</string>
+    <string name="menu_best_deals">Bán chạy</string>
+    <string name="menu_most_popular">Phổ biến</string>
+    <string name="menu_order">Đơn hàng</string>
+    <string name="menu_sign_out">Đăng xuất</string>
+
+    <string name="best_deals">Best Deals</string>
+
+    //SignOut
+    <string name="title_signout">ĐĂNG XUẤT</string>
+    <string name="msg_signout">Bạn có muốn đăng xuất?</string>
+    <string name="signout_ok">Đăng xuất</string>
+    <string name="signout_cancel">Đóng lại</string>
+    <string name="title_activity_tracking_order">Bản đồ</string>
+</resources>

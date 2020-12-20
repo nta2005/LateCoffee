@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#cdcbcb</color>
+    <!--    <color name="colorPrimaryDark">#3700B3</color>-->
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background_color">#f5f5f5</color>
+    <color name="black">#000000</color>
+    <color name="white">#fff</color>
+    <color name="lightGrey">#D3D3D3</color>
+    <color name="overlay_color">#55333639</color>
+    <color name="border_color">#AA333639</color>
+    <color name="dialog_header_color">#c5c5c5</color>
+    <color name="dialog_text_color">#464646</color>
+    <color name="colorAccent2">#D81B60</color>
+
+    <!--Wellcome Screen Color-->
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+</resources>

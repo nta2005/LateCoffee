@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Late Coffee</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_search">Tìm kiếm</string>
+    <string name="action_clear_cart">Xoá toàn bộ</string>
+    <string name="toast_clear_cart">Xoá vật phẩm thành công!</string>
+    <string name="toast_clearAll_cart">Đã xoá toàn bộ giỏ hàng!</string>
+
+    <string name="drawer_header">Chào, </string>
+    <string name="menu_home">Trang chủ</string>
+    <string name="menu_subscribe_news">Mới</string>
+    <string name="menu_menu">Menu</string>
+    <string name="menu_food_list">Danh sách đồ ăn</string>
+    <string name="menu_food_detail">Thông tin món ăn</string>
+    <string name="menu_cart">Giỏ hàng</string>
+    <string name="menu_view_order">Xem đơn hàng</string>
+    <string name="menu_update">Cập nhật thông tin</string>
+    <string name="menu_sign_out">Đăng xuất</string>
+
+    <string name="popular_categories">Phổ biến</string>
+    <string name="best_deals">Bán chạy</string>
+    <string name="size">Size</string>
+    <string name="add_on">Thêm</string>
+    <string name="register_success">Chúc mừng! Đăng ký thành công!</string>
+    <string name="signin_error">Đăng nhập thất bại!</string>
+    <string name="msg_permission">Bạn phải cấp quyền để sử dụng app</string>
+    <string name="swipe_delete">Xoá</string>
+    <string name="order_placed_success">Đặt hàng thành công!</string>
+    //Hint
+    <string name="please_name">Tên của bạn</string>
+    <string name="please_address">Địa chỉ của bạn</string>
+    <string name="enter_address">Địa chỉ của bạn</string>
+    <string name="enter_cmt">Nhập bình luận</string>
+
+    //TextView
+    <string name="txt_address_detail">Địa chỉ của bạn</string>
+    <string name="delivery_method">Phương thức vận chuyển</string>
+    <string name="payment_method">Phương thức thanh toán</string>
+
+    //RadioButton
+    <string name="rdi_home">Nhà của bạn</string>
+    <string name="rdi_ship_to_this">Địa chỉ này</string>
+    <string name="rdi_other">Địa chỉ khác</string>
+    <string name="rdi_cod">Thanh toán khi nhận hàng</string>
+    <string name="rdi_braintree">Thanh toán bằng thẻ</string>
+
+    //Register
+    <string name="title_register">ĐĂNG KÝ</string>
+    <string name="msg_fill_info">Hãy nhập thông tin của bạn</string>
+    <string name="btn_cancel">Đóng</string>
+    <string name="btn_register">Đăng ký</string>
+    <string name="edt_name">Tên của bạn</string>
+    <string name="edt_address">Địa chỉ của bạn</string>
+
+    //SignOut
+    <string name="title_signout">ĐĂNG XUẤT</string>
+    <string name="msg_signout">Bạn có muốn đăng xuất?</string>
+    <string name="signout_ok">Đồng ý</string>
+    <string name="signout_cancel">Thoát</string>
+
+    //Cart
+    <string name="cart_empty">Giỏ hàng trống</string>
+    <string name="place_order">Đặt hàng</string>
+    <string name="cart_total">Tổng cộng: 0</string>
+
+    //Rating
+    <string name="edt_rating">Hãy viết gì đó!</string>
+
+    //Place Order
+    <string name="one_more_step">THÊM MỘT BƯỚC!</string>
+    <string name="place_order_ok">Đặt hàng</string>
+    <string name="place_order_cancel">Đóng</string>
+
+    //Message
+    <string name="braintree_not_available">Thanh toán thẻ hiện không khả dụng!</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyChRnUT2_0GFlawAiljwGmEO6SeBZXNnAI</string>
+    <string name="title_activity_tracking_order">Bản đồ</string>
+
+</resources>

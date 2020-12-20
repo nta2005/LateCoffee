@@ -1,0 +1,25 @@
+package com.nta.latecoffee.ui.comments;
+
+import androidx.lifecycle.MutableLiveData;
+import androidx.lifecycle.ViewModel;
+
+import com.nta.latecoffee.model.CommentModel;
+
+import java.util.List;
+
+public class CommentViewModel extends ViewModel {
+    private final MutableLiveData<List<CommentModel>> mutableLiveDataCommentList;
+
+    public CommentViewModel() {
+        mutableLiveDataCommentList = new MutableLiveData<>();
+
+    }
+
+    public MutableLiveData<List<CommentModel>> getMutableLiveDataCommentList() {
+        return mutableLiveDataCommentList;
+    }
+
+    public void setCommentList(List<CommentModel> commentList) {
+        mutableLiveDataCommentList.setValue(commentList);
+    }
+}

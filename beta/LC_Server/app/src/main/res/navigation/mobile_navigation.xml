@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_category">
+
+    <!--Fragment Category-->
+    <fragment
+        android:id="@+id/nav_category"
+        android:name="com.nta.lc_server.ui.category.CategoryFragment"
+        android:label="@string/menu_category"
+        tools:layout="@layout/fragment_category" />
+
+    <!--Fragment FoodList-->
+    <fragment
+        android:id="@+id/nav_food_list"
+        android:name="com.nta.lc_server.ui.food_list.FoodListFragment"
+        android:label="@string/menu_food_list"
+        tools:layout="@layout/fragment_food_list">
+
+        <action
+            android:id="@+id/clearBackstack"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/nav_category"
+            app:popUpToInclusive="true" />
+
+    </fragment>
+
+    <!--Fragment Order-->
+    <fragment
+        android:id="@+id/nav_order"
+        android:name="com.nta.lc_server.ui.order.OrderFragment"
+        android:label="@string/menu_order"
+        tools:layout="@layout/fragment_order">
+
+        <action
+            android:id="@+id/clearBackstack"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/nav_category"
+            app:popUpToInclusive="true" />
+
+    </fragment>
+
+    <!--Fragment Shipper-->
+    <fragment
+        android:id="@+id/nav_shipper"
+        android:name="com.nta.lc_server.ui.shipper.ShipperFragment"
+        android:label="@string/menu_shipper"
+        tools:layout="@layout/fragment_shipper">
+
+        <action
+            android:id="@+id/clearBackstack"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/nav_category"
+            app:popUpToInclusive="true" />
+
+    </fragment>
+
+    <!--Fragment Best Deals-->
+    <fragment
+        android:id="@+id/nav_best_deals"
+        android:name="com.nta.lc_server.ui.best_deals.BestDealsFragment"
+        android:label="@string/menu_best_deals"
+        tools:layout="@layout/fragment_best_deals">
+
+        <action
+            android:id="@+id/clearBackstack"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/nav_category"
+            app:popUpToInclusive="true" />
+
+    </fragment>
+
+    <!--Fragment Most Popular-->
+    <fragment
+        android:id="@+id/nav_most_popular"
+        android:name="com.nta.lc_server.ui.most_popular.MostPopularFragment"
+        android:label="@string/menu_most_popular"
+        tools:layout="@layout/fragment_most_popular">
+
+        <action
+            android:id="@+id/clearBackstack"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/nav_category"
+            app:popUpToInclusive="true" />
+
+    </fragment>
+
+    <!--Fragment Discount-->
+    <fragment
+        android:id="@+id/nav_discount"
+        android:name="com.nta.lc_server.ui.discount.DiscountFragment"
+        android:label="@string/menu_discount"
+        tools:layout="@layout/fragment_discount">
+
+        <action
+            android:id="@+id/clearBackstack"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/nav_category"
+            app:popUpToInclusive="true" />
+
+    </fragment>
+
+
+</navigation>

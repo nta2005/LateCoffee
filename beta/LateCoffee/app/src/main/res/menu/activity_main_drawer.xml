@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/restaurant_group">
+        <item
+            android:id="@+id/nav_restaurant"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_restaurant" />
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/nav_update_info"
+            android:icon="@drawable/ic_update"
+            android:title="@string/menu_update" />
+    </group>
+
+    <group android:id="@+id/user_group">
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@drawable/ic_sign_out"
+            android:title="@string/menu_sign_out" />
+    </group>
+
+</menu>

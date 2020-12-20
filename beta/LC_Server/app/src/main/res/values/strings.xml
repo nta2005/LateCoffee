@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">LC Server</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_create">Create</string>
+
+    <string name="menu_category">Categories</string>
+    <string name="menu_discount">Discount</string>
+    <string name="menu_send_news">News System</string>
+    <string name="menu_food_list">Food List</string>
+    <string name="menu_best_deals">Best Deals</string>
+    <string name="menu_most_popular">Most Popular</string>
+    <string name="menu_order">Orders</string>
+    <string name="menu_shipper">Shippers</string>
+    <string name="menu_sign_out">Sign out</string>
+
+    <string name="best_deals">Best Deals</string>
+
+    //SignOut
+    <string name="title_signout">Signout</string>
+    <string name="msg_signout">Do you really want to sign out?</string>
+    <string name="signout_ok">OK</string>
+    <string name="signout_cancel">CANCEL</string>
+    <string name="title_activity_tracking_order">Map</string>
+    <string name="menu_location">Location</string>
+</resources>

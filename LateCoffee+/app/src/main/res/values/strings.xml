@@ -24,7 +24,7 @@
     <string name="menu_sign_out">Đăng xuất</string>
 
     <string name="popular_categories">Phổ biến</string>
-    <string name="best_deals">Bán chạy</string>
+    <string name="best_deals">Đề xuất</string>
     <string name="size">Size</string>
     <string name="add_on">Thêm</string>
     <string name="register_success">Chúc mừng! Đăng ký thành công!</string>
@@ -45,7 +45,7 @@
 
     //RadioButton
     <string name="rdi_home">Nhà của bạn</string>
-    <string name="rdi_ship_to_this">Địa chỉ này</string>
+    <string name="rdi_ship_to_this">Địa chỉ hiện tại</string>
     <string name="rdi_other">Địa chỉ khác</string>
     <string name="rdi_cod">Thanh toán khi nhận hàng</string>
     <string name="rdi_braintree">Thanh toán bằng thẻ</string>

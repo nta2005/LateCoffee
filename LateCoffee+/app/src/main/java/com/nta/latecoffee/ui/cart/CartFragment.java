@@ -616,7 +616,6 @@ public class CartFragment extends Fragment implements ILoadTimeFromFirebaseListe
                                             if (dataSnapshot.exists()) {
                                                 CategoryModel categoryModel = dataSnapshot.getValue(CategoryModel.class);
                                                 searchCategoryCallbackListener.onSearchCategoryFound(categoryModel, cartItem);
-
                                             } else {
                                                 searchCategoryCallbackListener.onSearchCategoryNotFound("Vật phẩm không tồn tại!");
                                             }
@@ -625,7 +624,6 @@ public class CartFragment extends Fragment implements ILoadTimeFromFirebaseListe
                                         @Override
                                         public void onCancelled(@NonNull DatabaseError databaseError) {
                                             searchCategoryCallbackListener.onSearchCategoryNotFound(databaseError.getMessage());
-
                                         }
                                     });
                         }));

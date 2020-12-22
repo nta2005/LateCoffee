@@ -143,19 +143,25 @@ public class DiscountFragment extends Fragment {
 
         builder.setNegativeButton("Đóng", (dialogInterface, i) -> dialogInterface.dismiss())
                 .setPositiveButton("Thêm", (dialogInterface, i) -> {
+
+
                     String code = edt_code.getText().toString().trim();
-                    int percent = Integer.parseInt(edt_percent.getText().toString().trim());
-                    String noWhiteSpace = "\\A\\w{3,10}\\z";
-
-
                     try {
+                        int percent = Integer.parseInt(edt_percent.getText().toString().trim());
+                        String noWhiteSpace = "\\A\\w{3,10}\\z";
+
+
                         DiscountModel discountModel = new DiscountModel();
+
                         discountModel.setKey(edt_code.getText().toString());
-                        discountModel.setPercent(Integer.parseInt(edt_percent.getText().toString()));
+
+                        discountModel.setPercent(Integer.parseInt(edt_percent.getText().toString().trim()));
+
                         discountModel.setUntilDate(selectedDate.getTimeInMillis()); //fix v103
 
                         //discountModel.setKey(edt_code.getText().toString().toLowerCase()); //fix v103
                         discountModel.setKey(edt_code.getText().toString().toUpperCase());
+
                         if (!code.matches(noWhiteSpace)) {
                             Toast.makeText(getContext(), "Hãy kiểm tra lại mã giảm giá", Toast.LENGTH_SHORT).show();
                             return;
@@ -165,7 +171,6 @@ public class DiscountFragment extends Fragment {
                         }
                         createDiscount(discountModel);
                     } catch (Exception e) {
-                        e.printStackTrace();
                         Toast.makeText(getContext(), "Bạn chưa điền đủ thông tin!", Toast.LENGTH_SHORT).show();
                     }
                 });

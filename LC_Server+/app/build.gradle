@@ -10,9 +10,9 @@ android {
     defaultConfig {
         applicationId "com.nta.lc_server"
         minSdkVersion 21 //Android 5
-        targetSdkVersion 28 //Android 11
-        versionCode 110
-        versionName "1.110+"
+        targetSdkVersion 28 //Android 9
+        versionCode 111
+        versionName "1.111+"
         //LC_Server+
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"

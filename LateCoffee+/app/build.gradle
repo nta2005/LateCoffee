@@ -11,8 +11,8 @@ android {
         applicationId "com.nta.latecoffee"
         minSdkVersion 21 //Android 5
         targetSdkVersion 28 //Android 9
-        versionCode 121
-        versionName "1.121+"
+        versionCode 122
+        versionName "1.122+"
         //LateCoffee+
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"

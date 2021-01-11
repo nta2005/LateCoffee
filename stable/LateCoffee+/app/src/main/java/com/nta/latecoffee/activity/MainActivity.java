@@ -147,7 +147,7 @@ public class MainActivity extends AppCompatActivity {
 
     //Show Register
     private void showRegisterDialog(FirebaseUser user) {
-        androidx.appcompat.app.AlertDialog.Builder builder = new androidx.appcompat.app.AlertDialog.Builder(this);
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle(R.string.title_register);
         builder.setMessage(R.string.msg_fill_info);
 
@@ -210,13 +210,13 @@ public class MainActivity extends AppCompatActivity {
 
         builder.setView(itemView);
 
-        androidx.appcompat.app.AlertDialog dialog = builder.create();
+        AlertDialog dialog = builder.create();
         dialog.show();
     }
 
     //Show Register use places_fragment (use when billing app)
     private void showRegisterDialogWithPlaces(FirebaseUser user) {
-        androidx.appcompat.app.AlertDialog.Builder builder = new androidx.appcompat.app.AlertDialog.Builder(this);
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("ĐĂNG KÝ");
         builder.setMessage("Hãy điền thông tin của bạn");
 
@@ -234,6 +234,7 @@ public class MainActivity extends AppCompatActivity {
         if (places_fragment == null)
             places_fragment = (AutocompleteSupportFragment) getSupportFragmentManager()
                     .findFragmentById(R.id.places_autocomplete_fragment);
+        assert places_fragment != null; //add new 11/01/2021
         places_fragment.setPlaceFields(placeFields);
         places_fragment.setOnPlaceSelectedListener(new PlaceSelectionListener() {
             @Override
@@ -302,7 +303,7 @@ public class MainActivity extends AppCompatActivity {
 
         builder.setView(itemView);
 
-        androidx.appcompat.app.AlertDialog dialog = builder.create();
+        AlertDialog dialog = builder.create();
         dialog.setOnDismissListener(dialogInterface -> {
             FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
             transaction.remove(places_fragment);

@@ -11,8 +11,8 @@ android {
         applicationId "com.nta.latecoffee"
         minSdkVersion 21 //Android 5
         targetSdkVersion 28 //Android 9
-        versionCode 122
-        versionName "1.122+"
+        versionCode 123
+        versionName "1.123+"
         //LateCoffee+
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -55,7 +55,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-analytics'
     implementation 'com.google.firebase:firebase-auth:19.4.0' // Don't update
     implementation 'com.google.firebase:firebase-database:19.6.0'
-    implementation 'com.firebaseui:firebase-ui-auth:6.2.1'
+    implementation 'com.firebaseui:firebase-ui-auth:6.4.0'
     implementation 'com.google.firebase:firebase-messaging:21.0.1'
     implementation 'com.firebaseui:firebase-ui-database:6.2.1'
     implementation 'com.google.firebase:firebase-storage:19.2.1'

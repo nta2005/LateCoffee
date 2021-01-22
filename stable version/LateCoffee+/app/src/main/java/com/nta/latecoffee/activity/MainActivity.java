@@ -131,8 +131,8 @@ public class MainActivity extends AppCompatActivity {
                             UserModel userModel = dataSnapshot.getValue(UserModel.class);
                             goToHomeActivity(userModel);
                         } else {
-                            //showRegisterDialog(user);
-                            showRegisterDialogWithPlaces(user); //use when app billing
+                            showRegisterDialog(user);
+                            //showRegisterDialogWithPlaces(user); //use when app billing
                             dialog.dismiss();
                         }
                     }

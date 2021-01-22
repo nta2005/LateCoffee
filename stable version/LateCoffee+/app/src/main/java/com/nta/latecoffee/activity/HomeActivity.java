@@ -459,8 +459,8 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
                 break;
 
             case R.id.nav_update_info:
-                //showUpdateInfoDialog();
-                showUpdateInfoDialogWithPlaces(); //use when app billing
+                showUpdateInfoDialog();
+                //showUpdateInfoDialogWithPlaces(); //use when app billing
                 break;
 
             case R.id.nav_sign_out:
